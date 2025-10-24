@@ -11,6 +11,6 @@ Je suis Quynh NGUYEN, passionnée par la data science et l'intelligence artifici
 ## 🛠️ Outils & Compétences
 | Catégorie | Outils / Technologies |
 |------------|-----------------------|
-| Langages   | Python, PHP, HTML5, CSS3 |
+| Langages   | Python|
 | Data       | Pandas, Power BI, SQL |
 | Outils     | Git, VSCode, Figma |
