@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
 
-<!--
-**QUYNHLESON/QUYNHLESON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Quynh NGUYEN, passionnée par la data science et l'intelligence artificielle.
 
-Here are some ideas to get you started:
+## 💼 Parcours professionnel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Portfolio & Projets
+🔗 [Voir mes projets data](https://github.com/QUYNHLESON)
+
+## 🛠️ Outils & Compétences
+| Catégorie | Outils / Technologies |
+|------------|-----------------------|
+| Langages   | Python, PHP, HTML5, CSS3 |
+| Data       | Pandas, Power BI, SQL |
+| Outils     | Git, VSCode, Figma |
